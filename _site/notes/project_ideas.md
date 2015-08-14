@@ -11,3 +11,6 @@ Revenue can be made via $.99 per timeline? Per timeline over 5 people? For use o
 
 #menage-a-deux
 Timeline based planning app spanning the next two years to help couples make life decisions.
+
+#FuckingHangry
+Doodle + Yelp + Video game voting system to get groups of people to their food.
