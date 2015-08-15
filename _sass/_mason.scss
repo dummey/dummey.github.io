@@ -7,6 +7,18 @@ html {
   width: 20%; 
   padding: 0;
   margin: 0;
+
+  a {
+    &:visited {
+        color: $brand-color;
+        text-decoration: none;
+    }
+
+    &:hover {
+        color: $brand-color;
+        text-decoration: none;
+    }
+  }
 }
 
 @media screen and (max-width: 1224px) {
@@ -42,16 +54,11 @@ html {
 .grid-item {
   display: inline-block; 
   overflow: hidden;
-/*  border: 0;
-  padding: 0;
-  margin: 0;
-  height: 100%;
-  width: 100%;*/
 }
 
-/*.grid-item:hover .overlay {
+.grid-item:hover .overlay {
     display: block;
-}*/
+}
 
 .grid-item img {
     -webkit-transition: all 1s ease-in-out; /* Safari and Chrome */
