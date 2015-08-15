@@ -1,12 +1,29 @@
 ---
-layout: page
-title: Latest Posts
-excerpt: "A simple and clean responsive Jekyll theme for words and photos."
-search_omit: true
+layout: default
 ---
 
-<ul class="post-list">
-{% for post in site.posts limit:10 %} 
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
-{% endfor %}
-</ul>
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <div class="grid">
+    <div class="grid-sizer"></div>
+
+    {% for post in site.posts %}
+
+      <div class="grid-item">
+          <img src="http://placehold.it/800x600">
+        <!-- <a class="overlay overlaypost-link" href="{{ post.url | prepend: site.baseurl }}">
+          <h2 class="title">{{ post.title }}</h2>
+          <div class="description">
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          </div>
+        </a> -->
+      </div>
+ 
+    {% endfor %}
+  </div>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
