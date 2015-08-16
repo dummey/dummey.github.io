@@ -13,7 +13,7 @@ layout: default
 
       <div class="grid-item">
         {{ site.url }}/images/{{ post.preview }}
-        <img src="{{ site.url }}/images/{{ post.preview }}"> 
+        <img src="{{ site.url + '/images/' + post.preview }}"> 
         <!-- http://placehold.it/800x600"> -->
         <a class="overlay overlaypost-link" href="{{ post.url | prepend: site.baseurl }}">
           <h2 class="title">{{ post.title }}</h2>
