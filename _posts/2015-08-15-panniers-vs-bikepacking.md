@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Panniers vs Bikepacking
-categories: TABR2015
+categories: TABR2014
 tags: []
-published: False
-
+published: True
+comments: False
+share: False
 ---
 
 First, what are panniers? And what are bikepacking bags? 
