@@ -24,6 +24,14 @@ body {
 			border-bottom-style: solid;
 		}
 	}
+	table, th, td {
+	    border: 1px solid black;
+	    border-collapse: collapse;
+	    border-color: grey;
+	}
+	th, td {
+    padding: 5px;
+	}
 }
 
 // Entry Header
