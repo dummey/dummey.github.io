@@ -37,7 +37,11 @@ image:
   <div class="entry-content">
     {{ post.excerpt }}
 
-    Click to view the rest.
+    {% unless post.link %}
+      <a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">
+        More to read within.
+      </a>
+    {% endunless %}
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
 {% endfor %}
