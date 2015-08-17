@@ -9,7 +9,9 @@ share: False
 
 ---
 
-What is the TABR(Trans America Bike Race) some of you may be asking? It is a cycling race put on every year from Astoria, Oregon to Yorktown, Virgina using the ACA Route. It is ~4300 miles long adventure. There will be a select few of you reading this who’s heart are starting to rapidly beat from the allure of this adventure. These cost breakdown are for you. 
+What is the TABR(Trans America Bike Race) some of you may be asking? It is a cycling race put on every year from Astoria, Oregon to Yorktown, Virgina using the ACA Route. It is ~4300 miles long adventure that both cost surprisingly little and a lot.
+
+There will be a select few of you reading this who’s heart are starting to rapidly beat from the allure of this adventure. These are the cost breakdowns for my 31 day race.  
 
 ##Transportation Cost 
 
@@ -24,11 +26,16 @@ What is the TABR(Trans America Bike Race) some of you may be asking? It is a cyc
 
 ##Bike/Equipment Cost 
 
+| Titanflex |
+| Aerobars 
+| Rack |
+| Panniers
+| | **Total** | 
+
 ##Lodging Cost
 
-- ($97.90) Norblad Hotel and Hostel — DELUXE Cabin
-
-Total: 
+| Norblad Hotel and Hostel | DELUXE Cabin | $97.90 
+| | **Total** | 
 
 ##Food Cost 
 
@@ -36,9 +43,9 @@ Total:
 
 ##Misc.
 
-- Packing Bike
-- ($20) Trackleaders
-- ()Spot Rental
-- Packing Bike + Shipping
-
-Total:
+| Bike Packing | | $60
+| Trackleaders Registration | | $20
+| Spot Rental | | 
+| Bike Packing | Bike Beat | $60
+| Bike Shipping | UPS | $132.71
+| | **Total** | 
