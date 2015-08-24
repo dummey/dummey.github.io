@@ -34,7 +34,7 @@ There will be a select few of you reading this who’s heart are starting to rap
 
 ##Lodging Cost
 
-| Norblad Hotel and Hostel | DELUXE Cabin | $97.90 
+| Norblad Hotel and Hostel | DELUXE Cabin, booked too late | $97.90 
 | | **Total** | 
 
 ##Food Cost 
