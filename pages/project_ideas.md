@@ -17,3 +17,9 @@ Revenue can be made via $.99 per timeline? Per timeline over 5 people? For use o
 
 #menage-a-deux
 Timeline based planning app spanning the next two years to help couples make life decisions.
+
+#CuddleWars
+I don't even know....
+
+#FuckingHangry
+Group management app that will handle the logistics of a) finding a time, b) finding a location and c) getting everybody there. 
