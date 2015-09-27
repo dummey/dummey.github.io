@@ -23,3 +23,6 @@ I don't even know....
 
 #FuckingHangry
 Group management app that will handle the logistics of a) finding a time, b) finding a location and c) getting everybody there. 
+
+#ConfVids
+Easily setup a list of conference videos on youtube and provide torrent style links to their direct download so that people can watch them on their travels home. 
