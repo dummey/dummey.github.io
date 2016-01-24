@@ -26,3 +26,6 @@ Group management app that will handle the logistics of a) finding a time, b) fin
 
 #ConfVids
 Easily setup a list of conference videos on youtube and provide torrent style links to their direct download so that people can watch them on their travels home. 
+
+#PearBuddy
+Voice command helper to assist in programming without moving hands from home row. 
