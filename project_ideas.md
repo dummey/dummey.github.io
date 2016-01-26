@@ -29,3 +29,6 @@ Easily setup a list of conference videos on youtube and provide torrent style li
 
 #PearBuddy
 Voice command helper to assist in programming without moving hands from home row. 
+
+#YrBook
+A congregation site for creating event based yearbooks. 
