@@ -4,7 +4,7 @@ email: dummey@gmail.com
 description: > # 
   The musing of a wandering dummey. 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "http://dummey.github.io/" # the base hostname & protocol for your site
 twitter_username: dumm3y
 github_username:  dummey
 
