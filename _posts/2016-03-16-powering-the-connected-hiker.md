@@ -63,6 +63,8 @@ Quick charge lets a battery charge up at 9V/2A while the battery is below ~80%. 
 
 Just be sure to check that the battery can be charged up with Quick Charge. Some batteries can only use Quick Charge when charging other devices.
 
+*Even if you have an iPhone, which cannot use Quick Charge, the battery may be charged with Quick Charge, thus making it worth it for much faster charging in town.*
+
 ### Weight
 The differences between battery packs of the same capacity are going to be minimal because ultimately, all of these battery packs need the same amount of batteries inside. Battery technology is a tough field right now and nobody has anything magical to dramatically reduce weight.
 
@@ -103,7 +105,7 @@ Calculation help from [csgnetwork](http://www.csgnetwork.com/batterychgcalc.html
 - [RAVPower 6700 Battery](http://www.amazon.com/Portable-RAVPower-External-Technology-Smartphones/dp/B00Y2PX4U2) - 4.8oz
 - [iClever 2 Port Charger](http://www.amazon.com/iClever-BoostCube-Technology-Blackberry-Bluetooth/dp/B00QTE09SY) - 2.9oz
 
-### Heavy Usage (1000mAh) - 13.1oz - 3hrs - Recomended 
+### Heavy Usage (10000mAh) - 13.1oz - 3hrs - Recomended 
 
 - [PowerCore+ 10050](http://www.amazon.com/dp/B013HSQXZC) - 8.3oz
 - [PowerPort+ 3](http://www.amazon.com/dp/B017JSZKGY) - 4.8
