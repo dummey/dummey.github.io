@@ -105,12 +105,12 @@ Calculation help from [csgnetwork](http://www.csgnetwork.com/batterychgcalc.html
 - [RAVPower 6700 Battery](http://www.amazon.com/Portable-RAVPower-External-Technology-Smartphones/dp/B00Y2PX4U2) - 4.8oz
 - [iClever 2 Port Charger](http://www.amazon.com/iClever-BoostCube-Technology-Blackberry-Bluetooth/dp/B00QTE09SY) - 2.9oz
 
-### Heavy Usage (10000mAh) - 13.1oz - 3hrs - Recomended 
+### Heavy Usage (10050mAh) - 13.1oz - 3hrs - Recomended 
 
 - [PowerCore+ 10050](http://www.amazon.com/dp/B013HSQXZC) - 8.3oz
 - [PowerPort+ 3](http://www.amazon.com/dp/B017JSZKGY) - 4.8
 
-### USB-C - 12.7oz - 5hrs
+### USB-C (10000mAh) - 12.7oz - 5hrs
 Not all that many choices here. And really not all that much benefit.
 
 - [Orico 10000 USB-C Battery](http://www.amazon.com/ORICO-10000mAh-Portable-External-Battery/dp/B018VK1TAU) - 9oz
