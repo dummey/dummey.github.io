@@ -105,13 +105,13 @@ Calculation help from [csgnetwork](http://www.csgnetwork.com/batterychgcalc.html
 - [RAVPower 6700 Battery](http://www.amazon.com/Portable-RAVPower-External-Technology-Smartphones/dp/B00Y2PX4U2) - 4.8oz
 - [iClever 2 Port Charger](http://www.amazon.com/iClever-BoostCube-Technology-Blackberry-Bluetooth/dp/B00QTE09SY) - 2.9oz
 
-### Heavy Usage (10050mAh) - 13.1oz - 3hrs - Recomended 
+### Heavy Usage (10050mAh) - 13.1oz - 3.5hrs - Recomended 
 
 - [PowerCore+ 10050](http://www.amazon.com/dp/B013HSQXZC) - 8.3oz
 - [PowerPort+ 3](http://www.amazon.com/dp/B017JSZKGY) - 4.8
 
-### USB-C (10000mAh) - 12.7oz - 5hrs
-Not all that many choices here. And really not all that much benefit.
+### USB-C (10000mAh) - 12oz - 4hrs
+A tiny bit lighter, USB-C plugs all around.
 
-- [Orico 10000 USB-C Battery](http://www.amazon.com/ORICO-10000mAh-Portable-External-Battery/dp/B018VK1TAU) - 9oz
-- [Tronsmart USB-C Quick Charger, 2 Port](http://www.amazon.com/Charger-Tronsmart-Quick-Charge-Technology/dp/B019C23ZGW) - 3.7
+- [iVoler 10000mAh External Battery Pack](http://www.amazon.com/iVoler-10000mAh-External-Battery-Charging/dp/B01A6HKP7E) - 8.3oz
+- [Tronsmart USB-C Quick Charger, 2 Port](http://www.amazon.com/Charger-Tronsmart-Quick-Charge-Technology/dp/B019C23ZGW) - 3.7oz
