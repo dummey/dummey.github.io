@@ -110,7 +110,6 @@ Calculation help from [csgnetwork](http://www.csgnetwork.com/batterychgcalc.html
 - [PowerCore+ 10050](http://www.amazon.com/dp/B013HSQXZC) - 8.3oz
 
 - [PowerPort+ 3](http://www.amazon.com/dp/B017JSZKGY) - 4.8oz
-or
 - [BlitzWolf 30W Qualcomm QC2.0 Dual USB](http://www.amazon.com/Charge-Charger-BlitzWolf-Qualcomm-Samsung/dp/B019H0JF3Q) - 3.5oz
 
 ### USB-C (10000mAh) - 12oz - 4hrs
