@@ -17,3 +17,7 @@ permalink: /notes/
 ## Good conf talks to rewatch
 
 * https://www.youtube.com/watch?v=8bZh5LMaSmE&index=1&list=LLlt4ZSW8NUcXLWiB3NMnK_w
+
+## Mobile editing
+
+* DroidEdit has integrated github support =)
