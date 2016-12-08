@@ -5,8 +5,8 @@ test list
 
 - hello
   - hello
-    -bye
+    - bye
     
 - hello
     - hello
-        -bye
+        - bye
